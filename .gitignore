@@ -33,11 +33,9 @@ wwwroot/node_modules/
 *.pdb
 *.pidb
 *.opendb
-*.bak
 
 **/docker-compose.override.yml
 
-*.bak
 *.dmp
 
 publish/
